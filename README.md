@@ -2,7 +2,7 @@
 https://gobyexample.com/
 
 - [x] Hello World 
-- [ ] Values
+- [x] Values
 - [ ] Variables
 - [ ] Constants
 - [ ] For
