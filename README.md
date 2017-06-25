@@ -1,4 +1,5 @@
-# learn-go-by-example
+# learn go by example
+https://gobyexample.com/
 
 - [x] Hello World 
 - [ ] Values
