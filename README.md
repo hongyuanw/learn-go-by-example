@@ -3,7 +3,7 @@ https://gobyexample.com/
 
 - [x] Hello World 
 - [x] Values
-- [ ] Variables
+- [x] Variables
 - [ ] Constants
 - [ ] For
 - [ ] If/Else
