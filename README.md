@@ -4,7 +4,7 @@ https://gobyexample.com/
 - [x] Hello World 
 - [x] Values
 - [x] Variables
-- [ ] Constants
+- [x] Constants
 - [ ] For
 - [ ] If/Else
 - [ ] Switch
