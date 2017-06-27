@@ -6,7 +6,7 @@ https://gobyexample.com/
 - [x] Variables
 - [x] Constants
 - [x] For
-- [ ] If/Else
+- [x] If/Else
 - [ ] Switch
 - [ ] Arrays
 - [ ] Slices
