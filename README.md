@@ -7,7 +7,7 @@ https://gobyexample.com/
 - [x] Constants
 - [x] For
 - [x] If/Else
-- [ ] Switch
+- [x] Switch
 - [ ] Arrays
 - [ ] Slices
 - [ ] Maps
