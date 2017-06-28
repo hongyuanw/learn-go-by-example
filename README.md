@@ -8,7 +8,7 @@ https://gobyexample.com/
 - [x] For
 - [x] If/Else
 - [x] Switch
-- [ ] Arrays
+- [x] Arrays
 - [ ] Slices
 - [ ] Maps
 - [ ] Range
