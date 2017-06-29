@@ -24,4 +24,10 @@ func main() {
 	n := map[string]int{"foo1": 1, "foo2": 2}
 	fmt.Println("n : ", n)
 
+	m["k3"] = 0
+	v3, k3Exists := m["k3"]
+	v4, k4Exists := m["k4"] // not exist
+
+	fmt.Println("v3 : ", v3, k3Exists)
+	fmt.Println("v4 : ", v4, k4Exists)
 }
