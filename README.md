@@ -11,7 +11,7 @@ https://gobyexample.com/
 - [x] Arrays
 - [x] Slices
 - [x] Maps
-- [ ] Range
+- [x] Range
 - [ ] Functions
 - [ ] Multiple Return Values
 - [ ] Variadic Functions
