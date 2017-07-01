@@ -12,7 +12,7 @@ https://gobyexample.com/
 - [x] Slices
 - [x] Maps
 - [x] Range
-- [ ] Functions
+- [x] Functions
 - [ ] Multiple Return Values
 - [ ] Variadic Functions
 - [ ] Closures
