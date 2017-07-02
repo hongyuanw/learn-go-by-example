@@ -15,7 +15,7 @@ https://gobyexample.com/
 - [x] Functions
 - [x] Multiple Return Values
 - [x] Variadic Functions
-- [ ] Closures
+- [x] Closures
 - [ ] Recursion
 - [ ] Pointers
 - [ ] Structs
