@@ -16,7 +16,7 @@ https://gobyexample.com/
 - [x] Multiple Return Values
 - [x] Variadic Functions
 - [x] Closures
-- [ ] Recursion
+- [x] Recursion
 - [ ] Pointers
 - [ ] Structs
 - [ ] Methods
