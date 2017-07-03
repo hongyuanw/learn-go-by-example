@@ -18,7 +18,7 @@ https://gobyexample.com/
 - [x] Closures
 - [x] Recursion
 - [x] Pointers
-- [ ] Structs
+- [x] Structs
 - [ ] Methods
 - [ ] Interfaces
 - [ ] Errors
