@@ -19,7 +19,7 @@ https://gobyexample.com/
 - [x] Recursion
 - [x] Pointers
 - [x] Structs
-- [ ] Methods
+- [x] Methods
 - [ ] Interfaces
 - [ ] Errors
 - [ ] Goroutines
