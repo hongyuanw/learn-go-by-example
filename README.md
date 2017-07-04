@@ -20,7 +20,7 @@ https://gobyexample.com/
 - [x] Pointers
 - [x] Structs
 - [x] Methods
-- [ ] Interfaces
+- [x] Interfaces
 - [ ] Errors
 - [ ] Goroutines
 - [ ] Channels
