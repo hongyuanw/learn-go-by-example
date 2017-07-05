@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func vals() (int, string) {
+func vals() (int, string) { // don't forget comma
 	return 1, "freestyle"
 }
 
