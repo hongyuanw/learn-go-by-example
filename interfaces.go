@@ -29,6 +29,6 @@ func main() {
 	c := circle{radius: 1.9}
 
 	fmt.Println(c.area())
-	measure(c)
+	measure(&c)
 
 }
