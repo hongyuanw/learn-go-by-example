@@ -21,7 +21,7 @@ https://gobyexample.com/
 - [x] Structs
 - [x] Methods
 - [x] Interfaces
-- [ ] Errors
+- [x] Errors
 - [ ] Goroutines
 - [ ] Channels
 - [ ] Channel Buffering
