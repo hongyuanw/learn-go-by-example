@@ -14,7 +14,22 @@ func positive(n int) (int, error) {
 	return n, nil
 }
 
-// todo define error type
+type argError struct {
+	arg         int
+	description string
+}
+
+func (e *argError) Error() string {
+	return fmt.Sprintf("%d - %s", e.arg, e.description)
+}
+
+func positive2(n int) (int, error) {
+	if n < 0 {
+		return -1, &argError{arg: n, description: "positive2 error"}
+	}
+
+	return n, nil
+}
 
 func main() {
 	nums := []int{1, -10}
@@ -27,4 +42,10 @@ func main() {
 		}
 	}
 
+	_, e := positive2(-1)
+	if ae, ok := e.(*argError); ok { // type assertion
+		fmt.Println(ae.arg)
+		fmt.Println(ae.description)
+		fmt.Println(ae.Error())
+	}
 }
