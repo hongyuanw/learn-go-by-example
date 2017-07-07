@@ -23,7 +23,7 @@ https://gobyexample.com/
 - [x] Interfaces
 - [x] Errors
 - [x] Goroutines
-- [ ] Channels
+- [x] Channels
 - [ ] Channel Buffering
 - [ ] Channel Synchronization
 - [ ] Channel Directions
