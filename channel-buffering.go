@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	message := make(chan string, 2) //buffered channel
+	message := make(chan string, 10) //buffered channel
 
 	message <- "buffered"
 	message <- "message"
