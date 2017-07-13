@@ -24,6 +24,6 @@ func main() {
 		fmt.Println("sent job ", i)
 	}
 	close(jobs)
-	<-done
+	<-done //synchornize main and worker gorountine
 
 }
