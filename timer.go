@@ -7,8 +7,8 @@ func main() {
 
 	timer1 := time.NewTimer(time.Second * 2)
 
-	<-timer1.C
-	fmt.Println("timer1 expired")
+	timestamp := <-timer1.C
+	fmt.Println("timer1 expired at ", timestamp)
 
 	timer2 := time.NewTimer(time.Second)
 	go func() {
