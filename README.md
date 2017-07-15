@@ -33,7 +33,7 @@ https://gobyexample.com/
 - [x] Closing Channels
 - [x] Range over Channels
 - [x] Timers
-- [ ] Tickers
+- [x] Tickers
 - [ ] Worker Pools
 - [ ] Rate Limiting
 - [ ] Atomic Counters
