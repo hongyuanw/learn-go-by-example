@@ -34,7 +34,7 @@ https://gobyexample.com/
 - [x] Range over Channels
 - [x] Timers
 - [x] Tickers
-- [ ] Worker Pools
+- [x] Worker Pools
 - [ ] Rate Limiting
 - [ ] Atomic Counters
 - [ ] Mutexes
