@@ -30,7 +30,7 @@ func main() {
 		jobs <- i
 	}
 
-	close(jobs)
+	//	close(jobs) if jobs channel is not closed, other goroutines will be dead after main() goroutine
 
 	for i := 0; i <= count; i++ {
 		<-results
