@@ -35,7 +35,7 @@ https://gobyexample.com/
 - [x] Timers
 - [x] Tickers
 - [x] Worker Pools
-- [ ] Rate Limiting
+- [x] Rate Limiting
 - [ ] Atomic Counters
 - [ ] Mutexes
 - [ ] Stateful Goroutines
