@@ -36,7 +36,7 @@ https://gobyexample.com/
 - [x] Tickers
 - [x] Worker Pools
 - [x] Rate Limiting
-- [ ] Atomic Counters
+- [x] Atomic Counters
 - [ ] Mutexes
 - [ ] Stateful Goroutines
 - [ ] Sorting
