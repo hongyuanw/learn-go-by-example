@@ -41,4 +41,7 @@ func main() {
 	fmt.Println("num2 ", num2)
 	fmt.Println("num3 ", num3)
 
+	//num1  28642   invalid num caused by data race
+	//num2  30000
+	//num3  30000
 }
