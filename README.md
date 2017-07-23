@@ -42,7 +42,7 @@ https://gobyexample.com/
 - [x] Sorting
 - [x] Sorting by Functions
 - [x] Panic
-- [ ] Defer
+- [x] Defer
 - [ ] Collection Functions
 - [ ] String Functions
 - [ ] String Formatting
