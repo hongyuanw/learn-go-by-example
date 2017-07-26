@@ -9,6 +9,15 @@ func main() {
 	defer closeFile(f)
 	writeFile(f)
 
+	a := 0
+	fmt.Println("ddddd", 1/a)
+
+	/**
+	creating...
+	writing...
+	closing...
+	panic: runtime error: integer divide by zero
+	*/
 }
 
 func createFile(filePath string) *os.File {
