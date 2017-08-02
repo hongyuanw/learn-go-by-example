@@ -44,4 +44,12 @@ func main() {
 	}
 	fmt.Println("twoD :", twoD)
 
+	cases := []struct{ in, out string }{
+		{"he", "she"},
+	}
+
+	for _, st := range cases {
+		fmt.Println(st.in, st.out)
+	}
+
 }
