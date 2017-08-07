@@ -44,7 +44,7 @@ https://gobyexample.com/
 - [x] Panic
 - [x] Defer
 - [ ] Collection Functions
-- [ ] String Functions
+- [x] String Functions
 - [ ] String Formatting
 - [ ] Regular Expressions
 - [ ] JSON
