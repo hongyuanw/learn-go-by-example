@@ -43,7 +43,7 @@ https://gobyexample.com/
 - [x] Sorting by Functions
 - [x] Panic
 - [x] Defer
-- [ ] Collection Functions
+- [x] Collection Functions
 - [x] String Functions
 - [ ] String Formatting
 - [ ] Regular Expressions
