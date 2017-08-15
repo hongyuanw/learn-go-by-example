@@ -45,7 +45,7 @@ https://gobyexample.com/
 - [x] Defer
 - [x] Collection Functions
 - [x] String Functions
-- [ ] String Formatting
+- [x] String Formatting
 - [ ] Regular Expressions
 - [ ] JSON
 - [ ] Time
