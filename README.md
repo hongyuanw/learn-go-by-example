@@ -47,7 +47,7 @@ https://gobyexample.com/
 - [x] String Functions
 - [x] String Formatting
 - [x] Regular Expressions
-- [ ] JSON
+- [x] JSON
 - [ ] Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
