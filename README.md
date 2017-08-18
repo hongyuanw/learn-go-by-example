@@ -48,7 +48,7 @@ https://gobyexample.com/
 - [x] String Formatting
 - [x] Regular Expressions
 - [x] JSON
-- [ ] Time
+- [x] Time
 - [ ] Epoch
 - [ ] Time Formatting / Parsing
 - [ ] Random Numbers
