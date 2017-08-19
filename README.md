@@ -49,7 +49,7 @@ https://gobyexample.com/
 - [x] Regular Expressions
 - [x] JSON
 - [x] Time
-- [ ] Epoch
+- [x] Epoch
 - [ ] Time Formatting / Parsing
 - [ ] Random Numbers
 - [ ] Number Parsing
