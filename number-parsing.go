@@ -9,4 +9,7 @@ func main() {
 
 	i, _ := strconv.Atoi("12")
 	fmt.Println(i)
+
+	t := strconv.FormatInt(456, 10)
+	fmt.Printf("%T, %v\n", t, t)
 }
