@@ -53,7 +53,7 @@ https://gobyexample.com/
 - [x] Time Formatting / Parsing
 - [x] Random Numbers
 - [ ] Number Parsing
-- [ ] URL Parsing
+- [x] URL Parsing
 - [ ] SHA1 Hashes
 - [ ] Base64 Encoding
 - [ ] Reading Files
