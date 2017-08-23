@@ -54,7 +54,7 @@ https://gobyexample.com/
 - [x] Random Numbers
 - [x] Number Parsing
 - [x] URL Parsing
-- [ ] SHA1 Hashes
+- [x] SHA1 Hashes
 - [x] Base64 Encoding
 - [ ] Reading Files
 - [ ] Writing Files
