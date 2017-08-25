@@ -57,7 +57,7 @@ https://gobyexample.com/
 - [x] SHA1 Hashes
 - [x] Base64 Encoding
 - [x] Reading Files
-- [ ] Writing Files
+- [x] Writing Files
 - [ ] Line Filters
 - [ ] Command-Line Arguments
 - [ ] Command-Line Flags
