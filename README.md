@@ -58,7 +58,7 @@ https://gobyexample.com/
 - [x] Base64 Encoding
 - [x] Reading Files
 - [x] Writing Files
-- [ ] Line Filters
+- [x] Line Filters
 - [ ] Command-Line Arguments
 - [ ] Command-Line Flags
 - [ ] Environment Variables
