@@ -61,7 +61,7 @@ https://gobyexample.com/
 - [x] Line Filters
 - [x] Command-Line Arguments
 - [x] Command-Line Flags
-- [ ] Environment Variables
+- [x] Environment Variables
 - [ ] Spawning Processes
 - [ ] Exec'ing Processes
 - [ ] Signals
