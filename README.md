@@ -59,7 +59,7 @@ https://gobyexample.com/
 - [x] Reading Files
 - [x] Writing Files
 - [x] Line Filters
-- [ ] Command-Line Arguments
+- [x] Command-Line Arguments
 - [ ] Command-Line Flags
 - [ ] Environment Variables
 - [ ] Spawning Processes
