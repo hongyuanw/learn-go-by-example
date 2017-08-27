@@ -15,7 +15,8 @@ func main() {
 	}
 
 	select {
-	case c1 <- "one messge": // c1 has one size buffer, if not, this case will be blocked
+	case c1 <- "one messge":
+		// c1 has one size buffer, if not, this case will be skipped because it will block
 		fmt.Println("send message")
 	default:
 		fmt.Println("no message sent")
