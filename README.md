@@ -63,6 +63,6 @@ https://gobyexample.com/
 - [x] Command-Line Flags
 - [x] Environment Variables
 - [x] Spawning Processes
-- [ ] Exec'ing Processes
+- [x] Exec'ing Processes
 - [ ] Signals
 - [ ] Exit
