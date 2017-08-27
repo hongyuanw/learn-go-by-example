@@ -10,7 +10,7 @@ func main() {
 
 	args := []string{"xxxx", "-l", "-h"}
 	// actually, the first argument of args will always be ignored
-	// because Exec think is as the name of program
+	// because Exec think the first argument as the name of program
 
 	envs := os.Environ()
 
