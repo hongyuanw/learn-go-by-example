@@ -64,5 +64,5 @@ https://gobyexample.com/
 - [x] Environment Variables
 - [x] Spawning Processes
 - [x] Exec'ing Processes
-- [ ] Signals
+- [x] Signals
 - [ ] Exit
